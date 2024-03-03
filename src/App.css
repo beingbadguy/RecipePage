@@ -1,0 +1,19 @@
+@font-face {
+  font-family: main;
+  src: url('/YoungSerif-Regular.ttf');
+}
+
+@font-face {
+  font-family: scnd;
+  src: url('/Outfit-Medium.ttf');
+}
+
+h1,
+p {
+  font-family: main;
+}
+
+li,
+.cal {
+  font-family: scnd;
+}
