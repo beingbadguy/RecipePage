@@ -2,7 +2,7 @@ const Recipe = () => {
   return (
     <div className='mx-10 select-none'>
       <div className='py-[4%]'>
-        <img src='/public/image-omelette.jpeg' alt='' className=' rounded-xl' />
+        <img src='/image-omelette.jpeg' alt='' className=' rounded-xl' />
       </div>
       <div>
         <h1 className='font-bold text-[2rem]'>Simple Omlette Recipe</h1>
